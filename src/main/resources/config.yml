@@ -1,0 +1,5 @@
+# Does capturing the home chunk of a nation capital put all other towns in your nation?
+capture_capital_homeblock_transfer_other_towns: false
+
+# Does capturing the home chunk of a town give you all its outposts?
+capture_homeblock_transfer_all_chunks: false

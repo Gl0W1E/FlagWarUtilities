@@ -1,0 +1,6 @@
+name: FlagWarUtilities
+version: '0.1'
+main: dev.glowie.flagWarUtilities.FlagWarUtilities
+api-version: '1.20'
+authors: [ Gl0W1E ]
+website: https://github.com/Gl0W1E

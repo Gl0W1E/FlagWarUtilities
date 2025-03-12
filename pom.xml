@@ -81,8 +81,9 @@
         <dependency>
             <groupId>com.github.TownyAdvanced</groupId>
             <artifactId>FlagWar</artifactId>
-            <version>0.6.4</version>
-            <scope>provided</scope>
+            <version>0.7.0</version>
+            <scope>system</scope>
+            <systemPath>${basedir}/lib/FlagWar-0.7.0.jar</systemPath>
         </dependency>
     </dependencies>
 </project>
